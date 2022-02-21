@@ -1,0 +1,11 @@
+node_modules/
+.husky/
+.cache/
+public/
+themes/
+.babelrc.js
+.eslintrc.js
+.prettierrc.js
+remix.config.js
+remix.env.d.ts
+server/build/
