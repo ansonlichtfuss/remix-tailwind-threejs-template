@@ -44,4 +44,4 @@ This project was created with the "Vercel" deployment target during creation. Th
 - [Three JS Docs](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 - [React Three Fiber Docs](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/utility-first)
-- Readme inspired by [nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog/blob/main/README.md) template.
+- Readme inspired by [nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog/blob/main/README.md)
