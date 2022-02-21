@@ -9,7 +9,14 @@ A [Remix](https://remix.run) starter for your next website, built using:
 - Formatting with [Prettier](https://prettier.io/)
 - Deployment with [Vercel](https://vercel.com/)
 
+👀 [View the Live Demo](https://remix-tailwind-threejs-template.vercel.app)
+
 ## Getting started
+
+```sh
+git clone https://github.com/ansonlichtfuss/remix-tailwind-threejs-template.git
+cd remix-tailwind-threejs-template
+```
 
 To run your Remix app locally, make sure your project's local dependencies are installed:
 
@@ -37,3 +44,4 @@ This project was created with the "Vercel" deployment target during creation. Th
 - [Three JS Docs](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 - [React Three Fiber Docs](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/utility-first)
+- Readme inspired by [nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog/blob/main/README.md) template.
