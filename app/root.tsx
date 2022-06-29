@@ -6,7 +6,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-} from 'remix';
+} from '@remix-run/react';
 import styles from './tailwind.css';
 
 export function links() {
