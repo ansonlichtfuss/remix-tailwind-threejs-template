@@ -1,3 +1,5 @@
+![Screenshot of application, showing two yellow cubes](https://github.com/ansonlichtfuss/remix-tailwind-threejs-template/blob/main/banner.png?raw=true)
+
 # Remix + Tailwind CSS + Three JS
 
 A [Remix](https://remix.run) starter for your next website, built using:
