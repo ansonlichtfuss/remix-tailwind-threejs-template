@@ -13,16 +13,16 @@
   },
   "dependencies": {
     "@react-three/fiber": "^7.0.26",
-    "@remix-run/react": "^1.6.1",
-    "@remix-run/serve": "^1.6.1",
-    "@remix-run/vercel": "1.6.1",
+    "@remix-run/react": "^1.6.3",
+    "@remix-run/serve": "^1.6.3",
+    "@remix-run/vercel": "1.6.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "remix": "1.6.1",
+    "remix": "1.6.3",
     "three": "^0.137.5"
   },
   "devDependencies": {
-    "@remix-run/dev": "^1.2.1",
+    "@remix-run/dev": "^1.6.3",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
     "@types/three": "^0.137.0",
