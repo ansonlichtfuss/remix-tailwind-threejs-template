@@ -3,11 +3,15 @@ import { useFrame } from '@react-three/fiber';
 import React, { useRef, useState } from 'react';
 
 const Box = (props: JSX.IntrinsicElements['mesh']) => {
-  const ref = useRef<THREE.Mesh>(null!);
+  const ref = useRef<THREE.Mesh>(null);
   const [hovered, hover] = useState(false);
   const [clicked, click] = useState(false);
 
-  useFrame(() => (ref.current.rotation.x += 0.01));
+  useFrame(() => {
+    if (ref.current) {
+      ref.current.rotation.x += 0.01;
+    }
+  });
 
   return (
     <mesh
